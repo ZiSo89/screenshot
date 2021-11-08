@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JpgToSerial", "JpgToSerial\JpgToSerial.vcxproj", "{719E22C8-AF2C-4A5F-8A35-1492C2EAAC23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719E22C8-AF2C-4A5F-8A35-1492C2EAAC23}.Debug|ARM.ActiveCfg = Debug|ARM
+		{719E22C8-AF2C-4A5F-8A35-1492C2EAAC23}.Debug|ARM.Build.0 = Debug|ARM
+		{719E22C8-AF2C-4A5F-8A35-1492C2EAAC23}.Debug|ARM.Deploy.0 = Debug|ARM
+		{719E22C8-AF2C-4A5F-8A35-1492C2EAAC23}.Debug|x64.ActiveCfg = Debug|x64
+		{719E22C8-AF2C-4A5F-8A35-1492C2EAAC23}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72ADFC27-CCC5-4F8E-9481-55A47D6D9B4D}
+	EndGlobalSection
+EndGlobal
